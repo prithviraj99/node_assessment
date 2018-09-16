@@ -1,0 +1,18 @@
+body {
+  padding: 20px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+h3 {
+  text-align: center;
+}
+
+.form-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
