@@ -12,7 +12,7 @@ The following repository is an assessment. Here are the points addressed:
 ### Nodejs server that listens on port 3001 and outputs a file content from any local directory (index.html) 
 
 URL - http://localhost:3001
-This includes a home page and also file upload functionality mentioned later from browser.
+This includes a home page and also file upload functionality from browser/UI.
 
 ### Nodejs server that serves as a RESTFUL api that takes two parameters in a GET call and produces their product
 
@@ -29,4 +29,5 @@ Output - { outputChar: 'z' }
 
 URL(POST) - http://localhost:3001/upload
 POST form-data : {file: (Choose file)}
-File gets wriiten to routes directory of project's folder.
+
+File gets written to routes directory of project's folder.
