@@ -30,4 +30,4 @@ Output - { outputChar: 'z' }
 URL(POST) - http://localhost:3001/upload
 POST form-data : {file: (Choose file)}
 
-File gets written to routes directory of project's folder.
+File gets written to uploads directory of project's root folder.
